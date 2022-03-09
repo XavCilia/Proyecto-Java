@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Xav Stark
+Main-Class: Bienvenida
+X-COMMENT: Curso Java 
